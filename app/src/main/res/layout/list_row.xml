@@ -5,7 +5,11 @@
     android:padding="2dp"
     android:id="@+id/relLayout">
 
-    <!-- uncomment the below xml code for card view -->
+    <!--
+   uncomment the below xml code for card view.
+   also delete the background attribute in the RelativeLayout
+   -->
+
 <!--
     <android.support.v7.widget.CardView
         xmlns:card_view="http://schemas.android.com/apk/res-auto"
