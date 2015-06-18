@@ -1,5 +1,5 @@
 # MyRecyclerList
-Code that accompanies my youtube tutorial series on recycerviews
+Code that accompanies my youtube tutorial series on recycerviews. The app mimics a listview with the option to put the list into a card view. The data is pulled from Reddit's open API parsing their JSON data.
 
 You can check out the tutorial series here
 https://www.youtube.com/watch?v=8ePqYGMxdSY&list=PLQjeFjKrwMBvDeocKVEt28c3sURkvH6Vo&index=1
