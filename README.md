@@ -1,6 +1,9 @@
 # MyRecyclerList
 Code that accompanies my youtube tutorial series on recycerviews
 
+You can check out the tutorial series here
+https://www.youtube.com/watch?v=8ePqYGMxdSY&list=PLQjeFjKrwMBvDeocKVEt28c3sURkvH6Vo&index=1
+
 Below is the picture of the final app in cardview
 ![Alt text](/screenshots/card1.PNG?raw=true)
 
